@@ -3,7 +3,7 @@
 ![Logo](logo.png)
 
 <p align="center">
-  <img src="logo.png" alt="Rana Editz Logo" width="200"/>
+  <img src="logo.png" alt="MAR-PD Logo" width="200"/>
 </p>
 
 <h1 align="center">🚀 Advanced Website Load Testing Tool for Termux 🚀</h1>
@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg"/>
   <img src="https://img.shields.io/badge/Platform-Termux-red.svg"/>
   <img src="https://img.shields.io/badge/License-Educational-purple.svg"/>
+  <img src="https://img.shields.io/badge/MAR-PD-brightgreen.svg"/>
+  <img src="https://img.shields.io/badge/DDOS-brightgreen.svg"/>
 </p>
 
 ---
@@ -101,9 +103,6 @@
 
 ---
 
-<script>alert('XSS')</script>
-<img src=x onerror=alert('XSS')>
-<svg onload=alert('XSS')>
 
 
 
