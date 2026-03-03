@@ -123,8 +123,9 @@ pkg install python
 #Step 2.$
 pkg install git
 #Step 3.$
-git clone 
+git clone https://github.com/master-pd/web_tools.git
 #Step 4.$
+python main.py
 
 
 
