@@ -3,7 +3,7 @@
 ![Logo](logo.png)
 
 <p align="center">
-  <img src="webtool.png" alt="MAR-PD Logo" width="200"/>
+  <img src="webtool.png" alt="MAR-PD Logo" />
 </p>
 
 <h1 align="center">🚀 Advanced Website Load Testing Tool for Termux 🚀</h1>
