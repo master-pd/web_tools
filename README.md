@@ -114,3 +114,18 @@
 ' UNION SELECT NULL--
 '; DROP TABLE users--
 ' AND SLEEP(5)--
+
+```
+##☠️Run this program 
+```
+#Step 1.$
+pkg install python
+#Step 2.$
+pkg install git
+#Step 3.$
+git clone 
+#Step 4.$
+
+
+
+
