@@ -1,25 +1,30 @@
 import os
 import sys
 import time
+import asyncio
 
 # Import compiled modules
 import rana
 import master
 import web2
 
+# ===== Color =====
 CYAN = "\033[96m"
 RESET = "\033[0m"
 
+# ===== Clear Screen =====
 def clear():
-    os.system("clear")
+    os.system("clear" if os.name == "posix" else "cls")
 
-def typing(text, delay=0.02):
+# ===== Typing Animation =====
+def typing(text, delay=0.03):
     for char in text:
         sys.stdout.write(char)
         sys.stdout.flush()
         time.sleep(delay)
     print()
 
+# ===== Loading Animation =====
 def loading():
     for i in range(3):
         sys.stdout.write(CYAN + "\rLoading" + "." * (i + 1) + RESET)
@@ -27,6 +32,7 @@ def loading():
         time.sleep(0.5)
     print("\n")
 
+# ===== Banner =====
 def banner():
     print(CYAN + """
 ███╗   ███╗ █████╗ ██████╗      ██████╗ ██████╗ 
@@ -38,15 +44,21 @@ def banner():
 """ + RESET)
     typing("Author: Rana\n")
 
+# ===== Safe Run for both normal & async main =====
 def safe_run(module):
     try:
         loading()
-        module.main()
+        # Check if main is coroutine
+        if asyncio.iscoroutinefunction(module.main):
+            asyncio.run(module.main())
+        else:
+            module.main()
     except AttributeError:
-        typing("Error: main() not found inside .so file!")
+        typing("Error: main() not found inside module!")
     except Exception as e:
         typing(f"Runtime Error: {e}")
 
+# ===== Menu =====
 def menu():
     while True:
         print(CYAN + "Choose now:" + RESET)
@@ -64,11 +76,12 @@ def menu():
         elif choice == "3":
             safe_run(web2)
         elif choice == "0":
-            typing("Goodbye Master 💝 Allah Hafez")
+            typing("Goodbye! Allah Hafez 💝")
             break
         else:
-            typing("Invalid option!")
+            typing("Invalid option! Try again.")
 
+# ===== Main =====
 if __name__ == "__main__":
     clear()
     banner()
