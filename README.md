@@ -1,6 +1,5 @@
 # 🔥 RANA EDITZ - PROFESSIONAL WEBSITE LOAD TESTER v5.0 🔥
 
-![Logo](logo.png)
 
 <p align="center">
   <img src="webtool.png" alt="MAR-PD Logo" />
