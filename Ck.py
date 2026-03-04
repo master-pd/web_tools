@@ -3,6 +3,7 @@ import sys
 import time
 import rana
 import master
+import web2
 
 # ===== Color =====
 CYAN = "\033[96m"
@@ -46,6 +47,7 @@ def menu():
         print(CYAN + "Choose now:" + RESET)
         print(CYAN + "[1] Master")
         print("[2] Run (Rana)")
+        print("[3] web2
         print("[0] Exit\n" + RESET)
 
         choice = input(CYAN + "Enter your choice: " + RESET)
@@ -56,6 +58,9 @@ def menu():
         elif choice == "2":
             loading()
             rana.main()
+        elif choice == "3":
+            loading()
+            web2.main()
         elif choice == "0":
             typing("Goodbye Master allah hafez 💝")
             break
