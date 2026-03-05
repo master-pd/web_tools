@@ -16,6 +16,9 @@
 </p>
 
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+</p>
 <p align="center">
   <img src="assets/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="MAR-PD Logo" />
 </p>
