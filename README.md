@@ -4,9 +4,9 @@
   <img src="webtool.png" alt="MAR-PD Logo" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/118968969/227749293-a65ed117-699b-4c41-90a2-7d41a899e6e1.gif" alt="MAR-PD Logo" />
+<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
 <h1 align="center">🚀 Advanced Website Load Testing Tool for Termux 🚀</h1>
-<img src="https://user-images.githubusercontent.com/118968969/227749293-a65ed117-699b-4c41-90a2-7d41a899e6e1.gif" alt="MAR-PD Logo" />
+<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-5.0-brightgreen.svg"/>
