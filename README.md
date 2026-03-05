@@ -1,7 +1,6 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Assalamualaikum+Friends+Kemon+aso+shobai+%F0%9F%92%9D)](https://git.io/typing-svg)
 
 <p align="center">
-  https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=F7009A&multiline=true&width=435&lines=Screenshot+
   <img src="webtool.png" alt="MAR-PD Logo" />
 </p>
 
@@ -43,6 +42,7 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=F7009A&multiline=true&width=435&lines=Screenshot+)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://i.ibb.co.com/kg73MK6Y/Screenshot-2026-03-05-13-19-58-611-com-termux-edit.jpg" alt="MAR-PD Logo" />
   <img src="https://i.ibb.co.com/VpWWHWK2/Screenshot-2026-03-05-13-20-35-571-com-termux-edit.jpg" alt="MAR-PD Logo" />
