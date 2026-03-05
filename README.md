@@ -1,5 +1,5 @@
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ASSALAMUALAIKUM+HOW+ARE+YOU+FRIENDS;I'M+MAR+PD+AND+YOU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=15F700&center=true&width=435&lines=Assalamualaikum+%F0%9F%AB%A0)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="webtool.png" alt="MAR-PD Logo" />
