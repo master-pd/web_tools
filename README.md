@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans+Arabic&size=40&pause=1000&color=00F71B&center=true&vCenter=true&width=435&lines=Assalamualaikum+Friends+Kemon+aso+Shobai+%F0%9F%92%9D)](https://git.io/typing-svg)
+
 
 <p align="center">
+  https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=F7009A&multiline=true&width=435&lines=Screenshot+
   <img src="webtool.png" alt="MAR-PD Logo" />
 </p>
 
