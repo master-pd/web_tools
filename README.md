@@ -47,7 +47,8 @@
   <img src="https://i.ibb.co.com/kg73MK6Y/Screenshot-2026-03-05-13-19-58-611-com-termux-edit.jpg" alt="MAR-PD Logo" />
   <img src="https://i.ibb.co.com/VpWWHWK2/Screenshot-2026-03-05-13-20-35-571-com-termux-edit.jpg" alt="MAR-PD Logo" />
   <img src="assets/Screenshot_2026-03-04-05-35-14-565_com.termux-edit.jpg" alt="MAR-PD Logo" />
-  <img src="webtool.png" alt="MAR-PD Logo" />
+  <img src="https://i.ibb.co.com/d4vBkmmL/Screenshot-2026-03-05-13-33-06-522-com-termux-edit.jpg" alt="MAR-PD Logo" />
+  <img src="https://i.ibb.co.com/Jw21M2YN/Screenshot-2026-03-05-13-21-11-725-com-facebook-katana-edit.jpg" alt="MAR-PD Logo" />
 </p>
 
 
