@@ -1,4 +1,4 @@
-# 🔥 RANA EDITZ - PROFESSIONAL WEBSITE LOAD TESTER v5.0 🔥
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <p align="center">
