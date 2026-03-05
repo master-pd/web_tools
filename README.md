@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="webtool.png" alt="MAR-PD Logo" />
+  <img src="assets/Screenshot_2026-03-04-05-35-14-565_com.termux-edit.jpg" alt="MAR-PD Logo" />
   <img src="webtool.png" alt="MAR-PD Logo" />
   <img src="webtool.png" alt="MAR-PD Logo" />
 </p>
