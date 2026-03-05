@@ -1,6 +1,5 @@
-<p align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Professional+Website+Load+Tester;Second+line+of+text)](https://git.io/typing-svg)
-</p>
 
 <p align="center">
   <img src="webtool.png" alt="MAR-PD Logo" />
