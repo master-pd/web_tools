@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Termux-red.svg"/>
   <img src="https://img.shields.io/badge/License-Educational-purple.svg"/>
   <img src="https://img.shields.io/badge/MAR-PD-brightgreen.svg"/>
-  <img src="https://img.shields.io/badge/DDOS-brightgreen.svg"/>
+  <img src="https://img.shields.io/badge/DOS-brightgreen.svg"/>
 </p>
 
 
